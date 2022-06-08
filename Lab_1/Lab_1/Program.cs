@@ -95,6 +95,7 @@ namespace Lab_1
         {
             // REQUEST #1
             Console.WriteLine("Request 1");
+            Console.WriteLine("Get all rental novels ordered by cost");
             var Request1 = from x in rentalList1
                            orderby x.Book.Cost
                            where x.Book.Genre == "novel"
@@ -106,6 +107,7 @@ namespace Lab_1
 
             // REQUEST #2
             Console.WriteLine("Request 2");
+            Console.WriteLine("Get the number of each genre from rental list");
             var Request2 = rentalList1
                 .GroupBy(x => x.Book.Genre);
             foreach (var x in Request2)

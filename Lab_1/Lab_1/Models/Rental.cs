@@ -25,7 +25,7 @@ namespace Lab_1.Models
         {
             return string.Format
                 ($"(Start date = {this.StartDate}; end date = {this.EndDate};" +
-                $" \nclient = {Client.ToString()}\n book = {Book.ToString()}) \n");
+                $" \nclient = {Client.ToString()}\n book = {Book}) \n");
         }
     }
 
