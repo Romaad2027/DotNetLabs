@@ -1,0 +1,15 @@
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.exe
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.deps.json
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.runtimeconfig.json
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.dll
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\bin\Debug\net6.0\ref\Lab_2.dll
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.pdb
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.AssemblyReference.cache
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfoInputs.cache
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfo.cs
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.CoreCompileInputs.cache
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.dll
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\obj\Debug\net6.0\ref\Lab_2.dll
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.pdb
+F:\КПИ\2 курс\2sem\dotDa\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.genruntimeconfig.cache

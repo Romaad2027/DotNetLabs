@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <books>
+    <book>
+      <name>War and Peace</name>
+      <author>Lev Tolstoy</author>
+      <genre>novel</genre>
+      <cost>200</cost>
+      <plegde>230</plegde>
+    </book>
+    <book>
+      <name>Red and Black</name>
+      <author>Stendal</author>
+      <genre>novel</genre>
+      <cost>100</cost>
+      <plegde>150</plegde>
+    </book>
+    <book>
+      <name>Dead souls</name>
+      <author>Mykola Gogol</author>
+      <genre>novel</genre>
+      <cost>90</cost>
+      <plegde>140</plegde>
+    </book>
+    <book>
+      <name>Crime and punishment</name>
+      <author>Fedor Dostoevskyi</author>
+      <genre>novel</genre>
+      <cost>120</cost>
+      <plegde>200</plegde>
+    </book>
+    <book>
+      <name>The Clown</name>
+      <author>Heinrich Böll</author>
+      <genre>novel</genre>
+      <cost>90</cost>
+      <plegde>160</plegde>
+    </book>
+    <book>
+      <name>The Bourgeois Gentleman</name>
+      <author>Molière</author>
+      <genre>play</genre>
+      <cost>60</cost>
+      <plegde>110</plegde>
+    </book>
+    <book>
+      <name>Mina Mazaylo</name>
+      <author>Mykola Koolish</author>
+      <genre>play</genre>
+      <cost>50</cost>
+      <plegde>90</plegde>
+    </book>
+    <book>
+      <name>Maskarad</name>
+      <author>Mikhail Lermontov</author>
+      <genre>play</genre>
+      <cost>65</cost>
+      <plegde>95</plegde>
+    </book>
+    <book>
+      <name>Kobzar</name>
+      <author>Taras Shevchenko</author>
+      <genre>poetry</genre>
+      <cost>85</cost>
+      <plegde>130</plegde>
+    </book>
+    <book>
+      <name>Poetry collection</name>
+      <author>Sergey Esenin</author>
+      <genre>poetry</genre>
+      <cost>85</cost>
+      <plegde>120</plegde>
+    </book>
+    <book>
+      <name>Poetry collection</name>
+      <author>Aleksandr Pushkin</author>
+      <genre>poetry</genre>
+      <cost>80</cost>
+      <plegde>115</plegde>
+    </book>
+    <book>
+      <name>Eneida</name>
+      <author>Ivan Kotlyarevskiy</author>
+      <genre>poem</genre>
+      <cost>85</cost>
+      <plegde>130</plegde>
+    </book>
+    <book>
+      <name>Eneida</name>
+      <author>Vergiliy</author>
+      <genre>poem</genre>
+      <cost>85</cost>
+      <plegde>130</plegde>
+    </book>
+    <book>
+      <name>Odyssey</name>
+      <author>Gomer</author>
+      <genre>poem</genre>
+      <cost>100</cost>
+      <plegde>160</plegde>
+    </book>
+  </books>
+  <clients>
+    <client>
+      <name>Evgeniy</name>
+      <surname>Ponasenkov</surname>
+      <phoneNumber>8855363</phoneNumber>
+      <category>default</category>
+      <address>Napoleonovskaya</address>
+    </client>
+    <client>
+      <name>Oleksandr</name>
+      <surname>Povoroznykl</surname>
+      <phoneNumber>32132</phoneNumber>
+      <category>student</category>
+      <address>Mariupolskya</address>
+    </client>
+    <client>
+      <name>Anton</name>
+      <surname>Gantonko</surname>
+      <phoneNumber>11111</phoneNumber>
+      <category>default</category>
+      <address>Andreevskaya</address>
+    </client>
+    <client>
+      <name>Vasya</name>
+      <surname>Ivaniuk</surname>
+      <phoneNumber>44444</phoneNumber>
+      <category>pensioner</category>
+      <address>Lilavaya</address>
+    </client>
+    <client>
+      <name>Bob</name>
+      <surname>Bobov</surname>
+      <phoneNumber>32312</phoneNumber>
+      <category>student</category>
+      <address>Sobornaya</address>
+    </client>
+    <client>
+      <name>Roman</name>
+      <surname>Antonov</surname>
+      <phoneNumber>984592</phoneNumber>
+      <category>pensioner</category>
+      <address>Sobornaya</address>
+    </client>
+    <client>
+      <name>Sofia</name>
+      <surname>Stolepina</surname>
+      <phoneNumber>543782</phoneNumber>
+      <category>student</category>
+      <address>Mariupolskaya</address>
+    </client>
+    <client>
+      <name>Ruslana</name>
+      <surname>Chekhova</surname>
+      <phoneNumber>785492</phoneNumber>
+      <category>default</category>
+      <address>Napoleonovskaya</address>
+    </client>
+    <client>
+      <name>Ekaterina</name>
+      <surname>Markova</surname>
+      <phoneNumber>895993</phoneNumber>
+      <category>pensioner</category>
+      <address>Lilavaya</address>
+    </client>
+    <client>
+      <name>Daria</name>
+      <surname>Philatenko</surname>
+      <phoneNumber>943053</phoneNumber>
+      <category>student</category>
+      <address>Andreevskaya</address>
+    </client>
+    <client>
+      <name>Svetlana</name>
+      <surname>Ignatenko</surname>
+      <phoneNumber>810058</phoneNumber>
+      <category>default</category>
+      <address>Sobornaya</address>
+    </client>
+  </clients>
+  <rentals>
+    <rental>
+      <startDate>5/3/2022 12:00:00 AM</startDate>
+      <endDate>5/14/2022 12:00:00 AM</endDate>
+      <bookName>War and Peace</bookName>
+      <bookAuthor>Lev Tolstoy</bookAuthor>
+      <bookGenre>novel</bookGenre>
+      <bookCost>200</bookCost>
+      <bookPledge>230</bookPledge>
+      <clientName>Evgeniy</clientName>
+      <clientSurnmae>Ponasenkov</clientSurnmae>
+      <clientCategory>default</clientCategory>
+      <clientPhoneNumber>8855363</clientPhoneNumber>
+      <clientAddress>Napoleonovskaya</clientAddress>
+    </rental>
+    <rental>
+      <startDate>5/6/2022 12:00:00 AM</startDate>
+      <endDate>5/19/2022 12:00:00 AM</endDate>
+      <bookName>Red and Black</bookName>
+      <bookAuthor>Stendal</bookAuthor>
+      <bookGenre>novel</bookGenre>
+      <bookCost>100</bookCost>
+      <bookPledge>150</bookPledge>
+      <clientName>Oleksandr</clientName>
+      <clientSurnmae>Povoroznykl</clientSurnmae>
+      <clientCategory>student</clientCategory>
+      <clientPhoneNumber>32132</clientPhoneNumber>
+      <clientAddress>Mariupolskya</clientAddress>
+    </rental>
+    <rental>
+      <startDate>5/5/2022 12:00:00 AM</startDate>
+      <endDate>6/21/2022 12:00:00 AM</endDate>
+      <bookName>Dead souls</bookName>
+      <bookAuthor>Mykola Gogol</bookAuthor>
+      <bookGenre>novel</bookGenre>
+      <bookCost>90</bookCost>
+      <bookPledge>140</bookPledge>
+      <clientName>Anton</clientName>
+      <clientSurnmae>Gantonko</clientSurnmae>
+      <clientCategory>default</clientCategory>
+      <clientPhoneNumber>11111</clientPhoneNumber>
+      <clientAddress>Andreevskaya</clientAddress>
+    </rental>
+    <rental>
+      <startDate>5/8/2022 12:00:00 AM</startDate>
+      <endDate>6/27/2022 12:00:00 AM</endDate>
+      <bookName>The Clown</bookName>
+      <bookAuthor>Heinrich Böll</bookAuthor>
+      <bookGenre>novel</bookGenre>
+      <bookCost>90</bookCost>
+      <bookPledge>160</bookPledge>
+      <clientName>Ekaterina</clientName>
+      <clientSurnmae>Markova</clientSurnmae>
+      <clientCategory>pensioner</clientCategory>
+      <clientPhoneNumber>895993</clientPhoneNumber>
+      <clientAddress>Lilavaya</clientAddress>
+    </rental>
+    <rental>
+      <startDate>5/7/2022 12:00:00 AM</startDate>
+      <endDate>6/27/2022 12:00:00 AM</endDate>
+      <bookName>Crime and punishment</bookName>
+      <bookAuthor>Fedor Dostoevskyi</bookAuthor>
+      <bookGenre>novel</bookGenre>
+      <bookCost>120</bookCost>
+      <bookPledge>200</bookPledge>
+      <clientName>Vasya</clientName>
+      <clientSurnmae>Ivaniuk</clientSurnmae>
+      <clientCategory>pensioner</clientCategory>
+      <clientPhoneNumber>44444</clientPhoneNumber>
+      <clientAddress>Lilavaya</clientAddress>
+    </rental>
+    <rental>
+      <startDate>5/6/2022 12:00:00 AM</startDate>
+      <endDate>5/19/2022 12:00:00 AM</endDate>
+      <bookName>Poetry collection</bookName>
+      <bookAuthor>Sergey Esenin</bookAuthor>
+      <bookGenre>poetry</bookGenre>
+      <bookCost>85</bookCost>
+      <bookPledge>120</bookPledge>
+      <clientName>Oleksandr</clientName>
+      <clientSurnmae>Povoroznykl</clientSurnmae>
+      <clientCategory>student</clientCategory>
+      <clientPhoneNumber>32132</clientPhoneNumber>
+      <clientAddress>Mariupolskya</clientAddress>
+    </rental>
+    <rental>
+      <startDate>5/6/2022 12:00:00 AM</startDate>
+      <endDate>5/21/2022 12:00:00 AM</endDate>
+      <bookName>The Bourgeois Gentleman</bookName>
+      <bookAuthor>Molière</bookAuthor>
+      <bookGenre>play</bookGenre>
+      <bookCost>60</bookCost>
+      <bookPledge>110</bookPledge>
+      <clientName>Oleksandr</clientName>
+      <clientSurnmae>Povoroznykl</clientSurnmae>
+      <clientCategory>student</clientCategory>
+      <clientPhoneNumber>32132</clientPhoneNumber>
+      <clientAddress>Mariupolskya</clientAddress>
+    </rental>
+    <rental>
+      <startDate>5/3/2022 12:00:00 AM</startDate>
+      <endDate>5/15/2022 12:00:00 AM</endDate>
+      <bookName>Kobzar</bookName>
+      <bookAuthor>Taras Shevchenko</bookAuthor>
+      <bookGenre>poetry</bookGenre>
+      <bookCost>85</bookCost>
+      <bookPledge>130</bookPledge>
+      <clientName>Vasya</clientName>
+      <clientSurnmae>Ivaniuk</clientSurnmae>
+      <clientCategory>pensioner</clientCategory>
+      <clientPhoneNumber>44444</clientPhoneNumber>
+      <clientAddress>Lilavaya</clientAddress>
+    </rental>
+    <rental>
+      <startDate>5/3/2022 12:00:00 AM</startDate>
+      <endDate>6/19/2022 12:00:00 AM</endDate>
+      <bookName>Poetry collection</bookName>
+      <bookAuthor>Aleksandr Pushkin</bookAuthor>
+      <bookGenre>poetry</bookGenre>
+      <bookCost>80</bookCost>
+      <bookPledge>115</bookPledge>
+      <clientName>Roman</clientName>
+      <clientSurnmae>Antonov</clientSurnmae>
+      <clientCategory>pensioner</clientCategory>
+      <clientPhoneNumber>984592</clientPhoneNumber>
+      <clientAddress>Sobornaya</clientAddress>
+    </rental>
+  </rentals>
+</root>
