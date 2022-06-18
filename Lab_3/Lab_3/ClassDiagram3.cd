@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_3.Factories.AutumnFactory" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\AutumnFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Factories.SpringFactory" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\SpringFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Factories.SummerFactory" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\SummerFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Factories.WinterFactory" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\WinterFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.AutumnProducts.AutumnOutWear" BaseTypeListCollapsed="true">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\AutumnProducts\AutumnProducts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.AutumnProducts.AutumnUnderWear" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\AutumnProducts\AutumnProducts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.AutumnProducts.AutumnFootWear" BaseTypeListCollapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\AutumnProducts\AutumnProducts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.SpringProducts.SpringOutWear" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\SpringProducts\SpringProducts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.SpringProducts.SpringUnderWear" BaseTypeListCollapsed="true">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\SpringProducts\SpringProducts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.SpringProducts.SpringFootWear" BaseTypeListCollapsed="true">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\SpringProducts\SpringProducts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.SummerProducts.SummerFootWear" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\SummerProducts\SummerFootWear.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.SummerProducts.SummerOutWear" BaseTypeListCollapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\SummerProducts\SummerOutWear.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.SummerProducts.SummerUnderWear" BaseTypeListCollapsed="true">
+    <Position X="16" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\SummerProducts\SummerUnderWear.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.WinterProducts.WinterOutWear" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\WinterProducts\WinterProducts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.WinterProducts.WinterUnderWear" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\WinterProducts\WinterProducts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_3.Products.WinterProducts.WinterFootWear" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\WinterProducts\WinterProducts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Lab_3.Factories.ISeasonFactory">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\Interfaces\ISeasonFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lab_3.Products.IFootWearProduct">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\IFootWearProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lab_3.Products.IOutWearProduct">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\IOutWearProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lab_3.Products.IUnderWearProduct">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\IUnderWearProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
